@@ -1,4 +1,4 @@
-package Basics;
+package org.tns.java.training;
 
 public class DatatypesDemo {
 
