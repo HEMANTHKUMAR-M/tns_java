@@ -179,6 +179,6 @@ Through this training, I have:
 # 📧 Contact  
 
 **Email:** hemantha1996m@gmail.com  
-**LinkedIn:** (Add your LinkedIn profile link here)  
+**LinkedIn:** https://www.linkedin.com/in/hemanth-kumar-m-64a925330/
 
 ---
